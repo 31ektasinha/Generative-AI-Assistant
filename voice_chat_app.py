@@ -1,9 +1,3 @@
-# Installation commands:
-# pip install streamlit speechrecognition pyttsx3 gtts pyaudio google-generativeai
-# Note: On some systems you might need: pip install PyAudio
-# On Mac: brew install portaudio && pip install pyaudio
-# On Linux: sudo apt-get install portaudio19-dev && pip install pyaudio
-
 import streamlit as st
 import speech_recognition as sr
 import pyttsx3
